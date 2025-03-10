@@ -30,7 +30,7 @@ def main():
     total_words = count_words(get_book_text(frankenstein_text))
     print(f"Found {total_words} total words")
     print("--------- Character Count -------")
-    print(organise(fin_dictionary))
+    organise(fin_dictionary)
     print("============= END ===============")
 
     
