@@ -25,6 +25,46 @@ def organise(fin_dictionary):
 
 def main():
     print("============ BOOKBOT ============")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
     print(f"Analyzing book found at {frankenstein_text}...")
     print("----------- Word Count ---------")
     total_words = count_words(get_book_text(frankenstein_text))
