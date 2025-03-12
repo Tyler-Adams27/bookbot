@@ -1,3 +1,5 @@
-# bookbot
+This python script takes a text file, iterates over each letter and sums up how many times each letter appears.
 
-BookBot is my first [Boot.dev](https://www.boot.dev) project!# bookbot
+Usage: python3 main.py path-to-file
+
+Replace path to file with the path to the file eg: /Documents/books/book1.txt
